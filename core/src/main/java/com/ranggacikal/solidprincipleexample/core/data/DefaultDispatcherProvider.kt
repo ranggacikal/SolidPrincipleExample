@@ -1,0 +1,3 @@
+package com.ranggacikal.solidprincipleexample.core.data
+
+class DefaultDispatcherProvider : CoroutineDispatcherProvider
